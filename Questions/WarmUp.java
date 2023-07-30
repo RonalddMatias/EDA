@@ -16,5 +16,6 @@ public class WarmUp {
         }   
 
         System.out.println(output.trim());
+        sc.close();
     }
 }
