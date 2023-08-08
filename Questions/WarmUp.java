@@ -1,5 +1,3 @@
-package EDA.Questions;
-
 import java.util.Scanner;
 
 public class WarmUp {
